@@ -4,6 +4,7 @@ class classe():
         self.age=12
         self.couleur="red"
         self.test="test"
+        self.lol="lool"
         self.allemagne=True
 
 
