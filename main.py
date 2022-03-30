@@ -4,8 +4,8 @@ class classe():
         self.age=12
         self.couleur="red"
         self.test="test"
-        self.allemagne=True
-
+        self.allemagne=False
+        
 
 def function(a,b):
     return a+b
