@@ -4,6 +4,7 @@ class classe():
         self.name="loup"
         self.age=12
         self.couleur="red"
+        self.test="test"
 
 
 def function(a,b):
