@@ -1,10 +1,10 @@
-
 class classe():
     def __init__(self):
         self.name="loup"
         self.age=12
         self.couleur="red"
         self.test="test"
+        self.allemagne=True
 
 
 def function(a,b):
