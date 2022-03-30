@@ -5,8 +5,7 @@ class classe():
         self.couleur="red"
         self.test="test"
         self.lol="lool"
-        self.allemagne=True
-
+        self.allemagne=False
 
 def function(a,b):
     return a+b
