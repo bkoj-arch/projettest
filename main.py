@@ -3,6 +3,8 @@ class classe():
     def __init__(self):
         self.name="loup"
         self.age=12
+        self.couleur="red"
+
 
 def function(a,b):
     return a+b
